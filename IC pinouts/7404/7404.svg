@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="99.736mm" height="52mm" version="1.1" viewBox="0 0 99.736 52" xmlns="http://www.w3.org/2000/svg">
 	<g transform="translate(-94.01 -55.383)" stroke-width=".4">
-		<g>
-			<g transform="translate(93.878 55.03)" stroke="#000">
-				<g>
+		<g transform="translate(93.878 55.03)" stroke="#000">
+			<g>
+				<path d="m0.3327 46.078h99.336v-39.45h-99.336v16.347a3.9894 3.381 0 0 1 0.15908-0.0021 3.9894 3.381 0 0 1 3.9898 3.3804 3.9894 3.381 0 0 1-3.9898 3.3814 3.9894 3.381 0 0 1-0.15908-0.0044z" fill="none" stroke="#000"/>
+				<g stroke="#000">
 					<g transform="translate(0 .21984)">
 						<rect x="90.22" y=".3327" width="6.7404" height="6.075" fill="none" stroke="#000"/>
 						<text x="93.592308" y="4.9400768" fill="#000000" font-family="sans" font-size="4.4036px" font-weight="bold" stroke="none" text-align="center" text-anchor="middle" xml:space="preserve"><tspan x="93.592308" y="4.9400768" stroke="none" stroke-width=".4">8</tspan><tspan x="93.592308" y="10.444514"/></text>
@@ -33,7 +34,7 @@
 						<text x="7.6594553" y="5.1621156" fill="#000000" font-family="sans" font-size="4.4036px" font-weight="bold" stroke="none" text-align="center" text-anchor="middle" xml:space="preserve"><tspan x="7.6594553" y="5.1621156" fill="#000000" font-size="4.4036px" stroke="none" stroke-width=".4">14</tspan></text>
 					</g>
 				</g>
-				<g transform="translate(0 -.10663)">
+				<g transform="translate(0 -.10663)" stroke="#000">
 					<g stroke-width=".4">
 						<g>
 							<rect x="90.22" y="46.184" width="6.7404" height="6.075" fill="none" stroke="#000"/>
@@ -65,21 +66,20 @@
 						<rect x="4.3817" y="46.184" width="6.7404" height="6.075" fill="none" stroke="#000"/>
 					</g>
 				</g>
-				<path d="m0.3327 46.078h99.336v-39.45h-99.336v16.347a3.9894 3.381 0 0 1 0.15908-0.0021 3.9894 3.381 0 0 1 3.9898 3.3804 3.9894 3.381 0 0 1-3.9898 3.3814 3.9894 3.381 0 0 1-0.15908-0.0044z" fill="none"/>
+				<g transform="translate(0 -.25268)" fill="#000000" stroke="none" text-anchor="middle">
+					<text x="7.5589643" y="11.919437" font-family="sans" font-size="4.6947px" text-align="center" xml:space="preserve"><tspan x="7.5589643" y="11.919437" fill="#000000" font-family="sans-serif" font-size="4.6947px" font-weight="bold" stroke="none" stroke-width=".4">V<tspan baseline-shift="sub" fill="#000000" font-size="4.6947px" stroke="none" stroke-width=".4">CC</tspan></tspan></text>
+					<text x="92.873207" y="43.574306" font-family="sans-serif" font-size="4.6947px" font-weight="bold" text-align="center" xml:space="preserve"><tspan x="92.873207" y="43.574306" fill="#000000" stroke="none" stroke-width=".4">GND</tspan></text>
+				</g>
 			</g>
-			<g transform="translate(93.878 54.777)" fill="#000000" text-anchor="middle">
-				<text x="7.5589643" y="11.919437" font-family="sans" font-size="4.6947px" text-align="center" xml:space="preserve"><tspan x="7.5589643" y="11.919437" fill="#000000" font-family="sans-serif" font-size="4.6947px" font-weight="bold" stroke-width=".4">V<tspan baseline-shift="sub" fill="#000000" font-size="4.6947px" stroke-width=".4">CC</tspan></tspan></text>
-				<text x="92.873207" y="43.574306" font-family="sans-serif" font-size="4.6947px" font-weight="bold" text-align="center" xml:space="preserve"><tspan x="92.873207" y="43.574306" fill="#000000" stroke-width=".4">GND</tspan></text>
+			<g transform="translate(-93.878 -55.03)" fill="none" stroke="#000">
+				<path d="m113.8 90.689 2.1393-1.7e-5 7e-5 10.419m-14.306-2.8e-4v-10.418h2.1398m10.027 1.7e-5c0 0.475-0.3823 0.85585-0.85337 0.85585s-0.85341-0.38085-0.85341-0.85585c0-0.47076 0.38234-0.85588 0.85341-0.85588s0.85337 0.38513 0.85337 0.85588zm-10.027 4.7072v-9.4145l8.1012 4.7073z"/>
+				<path d="m142.41 90.689 2.1393-1.7e-5 7e-5 10.419m-14.306-2.8e-4v-10.418h2.1398m10.027 1.7e-5c0 0.475-0.3823 0.85585-0.85337 0.85585s-0.85341-0.38085-0.85341-0.85585c0-0.47076 0.38234-0.85588 0.85341-0.85588s0.85337 0.38513 0.85337 0.85588zm-10.027 4.7072v-9.4145l8.1012 4.7073z"/>
+				<path d="m171.02 90.689 2.1393-1.7e-5 7e-5 10.419m-14.306-2.8e-4v-10.418h2.1398m10.027 1.7e-5c0 0.475-0.3823 0.85585-0.85337 0.85585s-0.85341-0.38085-0.85341-0.85585c0-0.47076 0.38234-0.85588 0.85341-0.85588s0.85337 0.38513 0.85337 0.85588zm-10.027 4.7072v-9.4145l8.1012 4.7073z"/>
+				<path d="m128.1 72.076 2.1393 1e-5 7e-5 -10.419m-14.306 2.8e-4v10.418h2.1398m10.027-1e-5c0-0.475-0.3823-0.85586-0.85337-0.85586s-0.85341 0.38086-0.85341 0.85586c0 0.47075 0.38234 0.85588 0.85341 0.85588s0.85337-0.38513 0.85337-0.85588zm-10.027-4.7072v9.4145l8.1012-4.7073z"/>
+				<path d="m156.72 72.076 2.1393 1e-5 7e-5 -10.419m-14.306 2.8e-4v10.418h2.1398m10.027-1e-5c0-0.475-0.3823-0.85586-0.85337-0.85586s-0.85341 0.38086-0.85341 0.85586c0 0.47075 0.38234 0.85588 0.85341 0.85588s0.85337-0.38513 0.85337-0.85588zm-10.027-4.7072v9.4145l8.1012-4.7073z"/>
+				<path d="m185.33 72.076 2.1393 1e-5 7e-5 -10.419m-14.306 2.8e-4v10.418h2.1398m10.027-1e-5c0-0.475-0.3823-0.85586-0.85337-0.85586s-0.85341 0.38086-0.85341 0.85586c0 0.47075 0.38234 0.85588 0.85341 0.85588s0.85337-0.38513 0.85337-0.85588zm-10.027-4.7072v9.4145l8.1012-4.7073z"/>
 			</g>
-			<text x="143.79605" y="84.78743" fill="#000000" font-family="sans-serif" font-size="6.5726px" font-weight="bold" text-align="center" text-anchor="middle" xml:space="preserve"><tspan x="143.79605" y="84.78743" fill="#000000" font-family="serif" font-size="6.5726px" font-weight="bold" stroke-width=".4">7404</tspan></text>
 		</g>
-		<g fill="none" stroke="#000">
-			<path d="m128.9 71.876 1.341 2.1e-5 7e-5 -10.219m-14.306 2.8e-4v10.218l1.0614-1e-6m11.904-2e-5c0-0.5639-0.45385-1.016-1.0131-1.016s-1.0131 0.45213-1.0131 1.016c0 0.55886 0.4539 1.0161 1.0131 1.0161s1.0131-0.45721 1.0131-1.0161zm-11.904-5.5883v11.177l9.6174-5.5883z"/>
-			<path d="m157.51 71.876 1.341 2.1e-5 7e-5 -10.219m-14.306 2.8e-4v10.218l1.0614-1e-6m11.904-2e-5c0-0.5639-0.45385-1.016-1.0131-1.016s-1.0131 0.45213-1.0131 1.016c0 0.55886 0.4539 1.0161 1.0131 1.0161s1.0131-0.45721 1.0131-1.0161zm-11.904-5.5883v11.177l9.6174-5.5883z"/>
-			<path d="m186.13 71.876 1.341 2.1e-5 7e-5 -10.219m-14.306 2.8e-4v10.218l1.0614-1e-6m11.904-2e-5c0-0.5639-0.45385-1.016-1.0131-1.016s-1.0131 0.45213-1.0131 1.016c0 0.55886 0.4539 1.0161 1.0131 1.0161s1.0131-0.45721 1.0131-1.0161zm-11.904-5.5883v11.177l9.6174-5.5883z"/>
-			<path d="m114.6 90.889 1.341-2.1e-5 7e-5 10.219m-14.306-2.8e-4v-10.218l1.0614 1e-6m11.904 2e-5c0 0.5639-0.45385 1.016-1.0131 1.016s-1.0131-0.45213-1.0131-1.016c0-0.55886 0.4539-1.0161 1.0131-1.0161s1.0131 0.45721 1.0131 1.0161zm-11.904 5.5883v-11.177l9.6174 5.5883z"/>
-			<path d="m143.21 90.889 1.341-2.1e-5 7e-5 10.219m-14.306-2.8e-4v-10.218l1.0614 1e-6m11.904 2e-5c0 0.5639-0.45385 1.016-1.0131 1.016s-1.0131-0.45213-1.0131-1.016c0-0.55886 0.4539-1.0161 1.0131-1.0161s1.0131 0.45721 1.0131 1.0161zm-11.904 5.5883v-11.177l9.6174 5.5883z"/>
-			<path d="m171.82 90.889 1.341-2.1e-5 7e-5 10.219m-14.306-2.8e-4v-10.218l1.0614 1e-6m11.904 2e-5c0 0.5639-0.45385 1.016-1.0131 1.016s-1.0131-0.45213-1.0131-1.016c0-0.55886 0.4539-1.0161 1.0131-1.0161s1.0131 0.45721 1.0131 1.0161zm-11.904 5.5883v-11.177l9.6174 5.5883z"/>
-		</g>
+		<text x="143.79605" y="84.78743" fill="#000000" font-family="sans-serif" font-size="6.5726px" font-weight="bold" text-align="center" text-anchor="middle" xml:space="preserve"><tspan x="143.79605" y="84.78743" fill="#000000" font-family="serif" font-size="6.5726px" font-weight="bold" stroke-width=".4">7404</tspan></text>
 	</g>
 </svg>
