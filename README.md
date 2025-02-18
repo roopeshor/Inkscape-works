@@ -4,6 +4,9 @@ Repository of my inkscape works
 
 ## Raster previews
 
+### Hertz Logo
+ <img src="./raster/Reworks/Hertz/logo.png" width="500px" alt="ECSA Logo competition poster" />
+
 ### [ECSA Logo competition poster](https://www.instagram.com/p/C6lw1hzvfZC/)
  <img src="./raster/ECSA%20Logo/competition%20poster.jpg" width="500px" alt="ECSA Logo competition poster" />
 

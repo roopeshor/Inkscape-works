@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="291.09698"
+   height="192.767"
+   viewBox="0 0 77.019411 51.002934"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="Bot Jungle-4.svg"
+   inkscape:version="1.4-beta (c48fd59, 2024-05-05)"
+   inkscape:export-filename="../raster/Bot Jungle/Bot Jungle-3-2.png"
+   inkscape:export-xdpi="230"
+   inkscape:export-ydpi="230"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showguides="false"
+     showgrid="false"
+     inkscape:zoom="2.1072561"
+     inkscape:cx="144.97526"
+     inkscape:cy="131.21329"
+     inkscape:window-width="1536"
+     inkscape:window-height="782"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g13"
+     inkscape:export-bgcolor="#ffffffff">
+    <sodipodi:guide
+       position="18.929777,34.702293"
+       orientation="0,-1"
+       id="guide13"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="18.088454,14.826027"
+       orientation="0,-1"
+       id="guide14"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="16.274952,26.355636"
+       orientation="1,0"
+       id="guide15"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="35.44938,22.931817"
+       orientation="1,0"
+       id="guide16"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1">
+    <inkscape:path-effect
+       effect="mirror_symmetry"
+       start_point="85.094632,92.949564"
+       end_point="85.094632,98.254742"
+       center_point="85.094632,95.602153"
+       id="path-effect14"
+       is_visible="true"
+       lpeversion="1.2"
+       lpesatellites=""
+       mode="free"
+       discard_orig_path="false"
+       fuse_paths="false"
+       oposite_fuse="false"
+       split_items="false"
+       split_open="false"
+       link_styles="false" />
+    <rect
+       x="163.22807"
+       y="39.518375"
+       width="197.59188"
+       height="109.96417"
+       id="rect13" />
+    <inkscape:path-effect
+       center_point="85.094629,97.161632"
+       end_point="85.094629,100.35359"
+       start_point="85.094629,93.969674"
+       effect="mirror_symmetry"
+       id="path-effect23"
+       is_visible="true"
+       lpeversion="1.2"
+       lpesatellites=""
+       mode="free"
+       discard_orig_path="false"
+       fuse_paths="false"
+       oposite_fuse="false"
+       split_items="false"
+       split_open="false"
+       link_styles="false" />
+    <rect
+       x="233.07425"
+       y="247.82895"
+       width="112.13022"
+       height="58.267517"
+       id="rect1" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-66.501148,-90.751014)">
+    <g
+       id="g13"
+       transform="translate(0.26453752,-2.1166179)">
+      <text
+         xml:space="preserve"
+         transform="matrix(0.26458333,0,0,0.26458333,67.111025,93.02111)"
+         id="text13"
+         style="font-weight:900;font-size:45.3543px;line-height:1.23;font-family:'Alegreya Sans SC';-inkscape-font-specification:'Alegreya Sans SC, Heavy';text-align:start;text-decoration-color:#000000;letter-spacing:3.6px;word-spacing:0px;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect13);display:inline;fill:none;stroke:#042033;stroke-width:4;stroke-linejoin:bevel" />
+      <g
+         id="g19"
+         transform="translate(-0.70324524)">
+        <g
+           id="g7"
+           transform="matrix(0.98842074,0,0,0.98842074,-9.7465273,13.831087)">
+          <path
+             style="fill:#042033"
+             d="m 100.36596,112.50471 -0.603517,0.86914 4.042967,2.81445 0.60547,-0.86914 z"
+             id="path18" />
+          <path
+             style="fill:#042033"
+             d="m 90.496818,112.50471 -4.044922,2.81445 0.605469,0.86914 4.042969,-2.81445 z"
+             id="path19" />
+          <g
+             id="g6"
+             transform="translate(10.465712,0.88215653)">
+            <path
+               id="path15"
+               style="fill:none;stroke:#042033;stroke-width:1.32292;stroke-dasharray:none"
+               d="m 89.727121,101.22926 -4.632489,2.71955 m -4.632491,-2.71955 4.632491,2.71955 v 12.2436 m -8.677085,-18.494004 10e-7,7.883094 4.044593,2.92974 v 3.58647 l 4.632491,4.0947 4.632489,-4.0947 v -3.58647 l 4.04459,-2.92974 v -7.883094 l -4.233392,-1.344729 -4.443687,3.119628 -4.487615,-3.105674 z"
+               sodipodi:nodetypes="cccccccccccccccccc" />
+            <path
+               style="fill:#042033;stroke-linejoin:bevel"
+               d="m 95.226562,93.3809 v 6.383958 l 1.324219,-0.566762 v -5.398941 z m -20.263866,0 v 6.383958 l -1.324219,-0.566762 v -5.398941 z"
+               id="path16"
+               sodipodi:nodetypes="ccccc"
+               inkscape:path-effect="#path-effect23"
+               inkscape:original-d="m 95.226562,93.3809 v 6.383958 l 1.324219,-0.566762 v -5.398941 z"
+               transform="translate(3.1939343e-6,5.1435245)" />
+            <path
+               style="fill:none;stroke:#042033;stroke-width:1.05833;stroke-linejoin:bevel;stroke-dasharray:none"
+               d="m 97.646531,93.023474 -3.87482,4.674932 m -21.228978,-4.674932 3.87482,4.674932"
+               id="path2"
+               sodipodi:nodetypes="cc"
+               inkscape:path-effect="#path-effect14"
+               inkscape:original-d="m 97.646531,93.023474 -3.87482,4.674932" />
+          </g>
+        </g>
+        <g
+           id="g18"
+           transform="translate(0.52916666,-0.52916666)">
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12px;line-height:1.23;font-family:'Berlin Sans FB Demi';-inkscape-font-specification:'Berlin Sans FB Demi, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;text-decoration-color:#000000;letter-spacing:-0.529167px;word-spacing:-0.0185208px;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;fill:#042033;fill-opacity:1;stroke:none;stroke-width:1.05833;stroke-linejoin:bevel"
+             x="98.393005"
+             y="118.11591"
+             id="text16"><tspan
+               sodipodi:role="line"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12px;font-family:'Berlin Sans FB Demi';-inkscape-font-specification:'Berlin Sans FB Demi, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#042033;fill-opacity:1;stroke:none;stroke-width:1.05833"
+               x="98.393005"
+               y="118.11591"
+               id="tspan17">BOT</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12px;line-height:1.23;font-family:'Berlin Sans FB Demi';-inkscape-font-specification:'Berlin Sans FB Demi, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;text-decoration-color:#000000;letter-spacing:-0.529167px;word-spacing:-0.0185208px;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;fill:#042033;fill-opacity:1;stroke:none;stroke-width:1.05833;stroke-linejoin:bevel"
+             x="98.361885"
+             y="128.19873"
+             id="text18"><tspan
+               sodipodi:role="line"
+               id="tspan18"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12px;font-family:'Berlin Sans FB Demi';-inkscape-font-specification:'Berlin Sans FB Demi, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#042033;fill-opacity:1;stroke:none;stroke-width:1.05833"
+               x="98.361885"
+               y="128.19873">JUNGLE</tspan></text>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
